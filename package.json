@@ -1,0 +1,19 @@
+{
+  "name": "nodejsexample",
+  "version": "1.0.0",
+  "description": "example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ryanwalk01/CIT262.git"
+  },
+  "author": "Ryan Walker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanwalk01/CIT262/issues"
+  },
+  "homepage": "https://github.com/ryanwalk01/CIT262#readme"
+}
